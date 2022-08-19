@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @AngusChisholm
+- 👀 I’m interested in learning coding and possibly Cybersecurity!
+- 🌱 I’m currently learning Python with a desire to also learn C, Ruby, Java and more!
+- 💞️ I’m looking to collaborate on really anything that I can be of help with, I am eager to learn everything I can!
+- 📫 How to reach me you can reach me on GitHub, more personal details can follow later on.
